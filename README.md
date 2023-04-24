@@ -42,6 +42,4 @@ From the above we can see that the usage of different algorithms is better in di
 ### Input:  
 `  `![](Aspose.Words.e7baa4d1-ca2d-43d4-b1fb-2b1302637545.001.png)
 ### Output:
-![A screenshot of a computer program
-
-Description automatically generated with medium confidence](Aspose.Words.e7baa4d1-ca2d-43d4-b1fb-2b1302637545.002.png)
+![](Aspose.Words.e7baa4d1-ca2d-43d4-b1fb-2b1302637545.002.png)
